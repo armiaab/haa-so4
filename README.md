@@ -1,7 +1,7 @@
 # HAA-SO(4): code and data
 
 Code and results for the article *Real Two-Qubit Blocks Reduce Gate Costs in the Hardware Adaptable Ansatz*
-(A. Abdurohman, submitted to the Journal of Chemical Theory and Computation).
+(A. Abdurohman, in preperation to the Journal of Chemical Theory and Computation).
 
 The study replaces the complex canonical (CAN) two-qubit block of the Hardware Adaptable Ansatz (HAA) of
 Zeng et al. (J. Chem. Theory Comput. 2023, 19, 8587) with a real SO(4) block and measures, for H4, LiH, HF, and
@@ -63,4 +63,3 @@ equilibrium, regang = stretched, derau = noise, diam = idle, awal = start, acak 
 floor, hemat = saving, biaya = cost, kedalaman = depth, rute = routing, uji = test, kontrol = control, terbaik =
 best, sukses = success, impas = break-even, peta = qubit mapping, riwayat = history, jejak = trace, potong = slice,
 kena_batas = iteration limit reached, buang = removed.
-
